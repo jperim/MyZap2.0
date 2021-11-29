@@ -110,6 +110,10 @@ pm2 start index.js
 pm2 startup
 ```
 
+```barsh
+pm2 log index
+```
+
 - Para instalar o certbot e criar o certificado SSL para domínios https:
 
 ```barsh
