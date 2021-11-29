@@ -78,9 +78,9 @@ cd MyZap2.0
 npm install --allow-root --unsafe-perm=true
 ```
 
-- Atualizar versão dos pacotes
+- Atualizar a versão do WPPCONNECT
 ```barsh
-npm update --allow-root --unsafe-perm=true
+npm i @wppconnect-team/wppconnect
 ```
 
 ```barsh
