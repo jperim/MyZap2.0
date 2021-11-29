@@ -78,6 +78,12 @@ cd MyZap2.0
 npm install --allow-root --unsafe-perm=true
 ```
 
+- Atualizar versão dos pacotes
+```barsh
+npm install --allow-root --unsafe-perm=true
+npm update --allow-root --unsafe-perm=true
+```
+
 ```barsh
 cp env_exemplo .env
 ```
