@@ -80,7 +80,6 @@ npm install --allow-root --unsafe-perm=true
 
 - Atualizar versão dos pacotes
 ```barsh
-npm install --allow-root --unsafe-perm=true
 npm update --allow-root --unsafe-perm=true
 ```
 
