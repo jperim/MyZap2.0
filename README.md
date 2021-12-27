@@ -36,10 +36,14 @@ sudo apt install -y curl nano git gconf-service libasound2 libatk1.0-0 libc6 lib
 
 ```barsh
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 
+- Para instalar o ChomeDrive (Linux ARM)
+- link: https://launchpad.net/ubuntu/bionic/arm64/chromium-chromedriver
 ```barsh
-sudo apt install ./google-chrome-stable_current_amd64.deb
+wget http://launchpadlibrarian.net/566436310/chromium-chromedriver_95.0.4638.69-0ubuntu0.18.04.1_arm64.deb
+sudo apt install ./chromium-chromedriver_95.0.4638.69-0ubuntu0.18.04.1_arm64.deb
 ```
 
 - Para instalar o nodejs 16
